@@ -1,4 +1,4 @@
-#########
+hello world
 echo -n "Enter first number: "
 read num1
 while [ $num1 -lt 1 -o $num1 -gt 100 ]
